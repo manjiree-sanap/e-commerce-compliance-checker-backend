@@ -68,7 +68,7 @@ The system is designed as a **distributed, four-layer architecture** to ensure s
      - Export of detailed violation reports  
    - Component: Product Compliance Summary Dashboard  
 
-## Frontend Link: https://github.com/Kanishk2Kumar/e-commerce-compliance-checker
+## Frontend Link: https://github.com/manjiree-sanap/e-commerce-compliance-checker.git
 <img width="1919" height="1139" alt="Screenshot 2025-09-24 074150" src="https://github.com/user-attachments/assets/63f4567d-819c-4106-ae5a-42cd80981e8d" />
 <img width="1919" height="1100" alt="Screenshot 2025-09-24 074228" src="https://github.com/user-attachments/assets/6eee987e-5f26-4f05-908f-0c8fb1160d09" />
 
